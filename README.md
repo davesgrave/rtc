@@ -1,5 +1,5 @@
-EasyRTC Server Example
-======================
+RTC Server Example
+===================
 
 This folder contains all the files you'll need to create a simple server with EasyRTC and Webix UI.
 
@@ -18,9 +18,9 @@ This folder contains all the files you'll need to create a simple server with Ea
 ### Viewing the examples:
 
 
- - In your browser open http://localhost:8080/
+ - In your browser open https://localhost
 
 
 ### License
 
- MIT
+ WD
